@@ -1,5 +1,5 @@
 {
-  "name": "my-first-nuxt-app",
+  "name": "class-mode-app",
   "version": "1.0.0",
   "description": "Nuxt.js project",
   "author": "Sho Tokuda <shoou0000@gmail.com>",
@@ -13,9 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.6.0",
-    "nuxt": "^2.0.0",
-    "universal-cookie": "^4.0.2"
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
